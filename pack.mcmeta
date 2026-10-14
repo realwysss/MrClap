@@ -1,0 +1,29 @@
+{
+    "pack":  {
+                 "description":  [
+                                     {
+                                         "bold":  true,
+                                         "color":  "red",
+                                         "text":  "MrClap\n"
+                                     },
+                                     {
+                                         "text":  "made by ways",
+                                         "color":  "gray"
+                                     },
+                                     {
+                                         "text":  " | ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "discord: ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "waystobe",
+                                         "color":  "light_purple"
+                                     }
+                                 ],
+                 "min_format":  75,
+                 "max_format":  75
+             }
+}
