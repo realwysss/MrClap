@@ -23,7 +23,6 @@ from crystal starting textures (low fire is replaced by the kesu fire here):
 - lighting is left on default, so brightness and fullbright mods work
 - enchantment levels show as 1, 2, 3 instead of I, II, III (potion levels too)
 
-the enchant glint textures are not part of this pack. they belong to Lioren ('Old Enchant Glint Plus'). to get that glint, put that pack above this one.
 
 fire credit: Kesu Fire pack (FIRE for CPvP).
 
