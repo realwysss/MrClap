@@ -23,10 +23,9 @@ from crystal starting textures (low fire is replaced by the kesu fire here):
 - lighting is left on default, so brightness and fullbright mods work
 - enchantment levels show as 1, 2, 3 instead of I, II, III (potion levels too)
 
-
 fire credit: Kesu Fire pack (FIRE for CPvP).
 
-version: minecraft 1.21.11 (pack format 75)
+version: minecraft 1.21.11
 
 ![hand](screenshots/hand.png)
 
