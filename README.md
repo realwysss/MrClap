@@ -32,3 +32,5 @@ version: minecraft 1.21.11
 ![blocks](screenshots/blocks.png)
 
 ![armor](screenshots/armor.png)
+
+all rights reserved. made by wysss.
